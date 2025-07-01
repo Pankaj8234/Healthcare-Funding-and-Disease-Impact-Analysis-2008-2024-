@@ -25,7 +25,7 @@ healthcare-funding-analysis/
 ## 📊 Visualizations and Insights
 
 ### 1. 📈 Funding Trends Over Time (Dual & Single Axis + Running Sum)
-![Dual Axis & Running Sum](screenshots/dual_line_running_sum.png)
+![Dual Axis & Running Sum](Visual 1.png)
 
 ### 2. 📊 Bar Charts – Year-wise Funding Distribution
 ![Bar Charts](screenshots/bar_charts.png)
