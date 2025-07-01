@@ -28,7 +28,7 @@ healthcare-funding-analysis/
 ![Dual Axis & Running Sum](Visual1.png)
 
 ### 2. 📊 Bar Charts – Year-wise Funding Distribution
-![Bar Charts](screenshots/bar_charts.png)
+![Bar Charts](/bar_charts.png)
 
 ### 3. 📌 Scatter Plots, Funding vs Prevalence, ARRA Impact
 ![Scatter & ARRA](screenshots/scatter_arra_mortality.png)
